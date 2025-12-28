@@ -155,7 +155,7 @@ const Galeria = () => {
             <p className="cta-texto">
               ¡Contáctanos y hagamos de tu evento algo inolvidable!
             </p>
-            <a href="#contacto" className="cta-btn">
+            <a href="https://wa.me/573242286120" className="cta-btn">
               Reserva Ahora 🎉
             </a>
           </div>
