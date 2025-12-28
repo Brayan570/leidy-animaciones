@@ -41,7 +41,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://wa.me/573001234567"
+                href="https://wa.me/573001234560"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="red-social whatsapp">
@@ -69,7 +69,7 @@ const Footer = () => {
                 <a href="#servicios">🎉 Servicios</a>
               </li>
               <li>
-                <a href="#contacto">📞 Contacto</a>
+                <a href="https://wa.me/573242286120">📞 Contacto</a>
               </li>
             </ul>
           </div>

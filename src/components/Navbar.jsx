@@ -83,7 +83,7 @@ const Navbar = () => {
             Servicios
           </a>
           <a
-            href="#contacto"
+            href="https://wa.me/573242286120"
             className="navbar-mobile-cta"
             onClick={() => setIsMenuOpen(false)}>
             Contacto

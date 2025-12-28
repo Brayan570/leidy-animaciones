@@ -220,7 +220,7 @@ const Servicios = () => {
             <p className="cta-texto">
               ¡Creamos paquetes personalizados a tu medida!
             </p>
-            <a href="#contacto" className="cta-boton">
+            <a href="https://wa.me/573242286120" className="cta-boton">
               Cotiza Ahora 📞
             </a>
           </div>
@@ -282,7 +282,7 @@ const Servicios = () => {
                 </div>
 
                 <a
-                  href="#contacto"
+                  href="https://wa.me/573242286120"
                   className="modal-cta-btn"
                   style={{ background: servicioSeleccionado.color }}>
                   Reservar Este Servicio
